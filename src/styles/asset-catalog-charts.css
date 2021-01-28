@@ -1,0 +1,27 @@
+/* 
+ * File: asset-catalog-charts.css
+ * Desc: styles for the asset catalog charts
+ */
+
+.chart-title {
+  color: rgb(0, 119, 197);
+  display: flex;
+  justify-content: center;
+  padding-top: 5px;
+}
+
+.chart-title-custom {
+  padding-left: 75px;
+}
+
+.chart-container-300 {
+  height: 300px;
+  overflow: hidden;
+}
+
+/* asset cats pie chart specific styles */
+/* TODO: create styled component for this */
+.asset-categories-total {
+  fill: rgb(0, 0, 0);
+  font-size: 36px;
+}

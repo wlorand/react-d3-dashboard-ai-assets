@@ -1,0 +1,77 @@
+[
+  {
+    "asset_name": "AI Tasker",
+    "asset_type": "ML",
+    "cust_benefit": "Less Work",
+    "consumer_count": 5,
+    "monthly_cost": "$1000",
+    "lifecycle_stage": "Deployed"
+  },
+  {
+    "asset_name": "Anomaly Detection Service",
+    "asset_type": "KE",
+    "cust_benefit": "Confidence",
+    "consumer_count": 10,
+    "monthly_cost": "$3250",
+    "lifecycle_stage": "Training"
+  },
+
+  {
+    "asset_name": "Mint Cat v5",
+    "asset_type": "NLP",
+    "cust_benefit": "Save Time",
+    "consumer_count": 1,
+    "monthly_cost": "$5075",
+    "lifecycle_stage": "Exploration"
+  },
+  {
+    "asset_name": "AI Tasker",
+    "asset_type": "ML",
+    "cust_benefit": "Less Work",
+    "consumer_count": 5,
+    "monthly_cost": "$1000",
+    "lifecycle_stage": "Deployed"
+  },
+  {
+    "asset_name": "Anomaly Detection Service",
+    "asset_type": "KE",
+    "cust_benefit": "Confidence",
+    "consumer_count": 10,
+    "monthly_cost": "$3250",
+    "lifecycle_stage": "Training"
+  },
+
+  {
+    "asset_name": "Mint Cat v5",
+    "asset_type": "NLP",
+    "cust_benefit": "Save Time",
+    "consumer_count": 1,
+    "monthly_cost": "$5075",
+    "lifecycle_stage": "Exploration"
+  },
+  {
+    "asset_name": "AI Tasker",
+    "asset_type": "ML",
+    "cust_benefit": "Less Work",
+    "consumer_count": 5,
+    "monthly_cost": "$1000",
+    "lifecycle_stage": "Deployed"
+  },
+  {
+    "asset_name": "Anomaly Detection Service",
+    "asset_type": "KE",
+    "cust_benefit": "Confidence",
+    "consumer_count": 10,
+    "monthly_cost": "$3250",
+    "lifecycle_stage": "Training"
+  },
+
+  {
+    "asset_name": "Mint Cat v5",
+    "asset_type": "NLP",
+    "cust_benefit": "Save Time",
+    "consumer_count": 1,
+    "monthly_cost": "$5075",
+    "lifecycle_stage": "Exploration"
+  }
+]

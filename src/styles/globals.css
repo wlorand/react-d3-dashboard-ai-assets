@@ -1,0 +1,15 @@
+/**
+ * File: globals.css
+ * Desc; global styles for aimm-ui
+ */
+
+@font-face {
+  font-family: "Avenir Next For Intuit";
+  src: url("../assets/fonts/avenir-next-for-intuit-rg-web.woff2");
+}
+
+body {
+  box-sizing: border-box;
+  font-family: "Avenir Next For Intuit", sans-serif;
+  margin: 0;
+}

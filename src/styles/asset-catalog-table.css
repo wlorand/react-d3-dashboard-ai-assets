@@ -1,0 +1,73 @@
+/* 
+ * File: asset-catalog-table.css
+ * Desc: styles for the asset catalog table
+ */
+
+.table-search {
+  align-items: center;
+  background-color: rgb(0, 119, 197);
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+}
+
+.table-search-title {
+  font-weight: bold;
+  margin-right: 10px;
+  padding: 10px 0;
+}
+
+.table-search-input {
+  border: 0;
+  border-radius: 10px;
+  font-family: inherit;
+  padding: 5px 10px;
+}
+
+table {
+  font-family: "Avenir Next For Intuit", sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table td,
+table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table th input[type="text"] {
+  font-family: inherit;
+}
+
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+table tr:hover {
+  background-color: #ddd;
+}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: rgb(0, 119, 197);
+  color: white;
+}
+
+table td {
+  text-align: center;
+}
+
+table td:first-of-type {
+  text-align: left;
+  padding-left: 10px;
+}
+
+.sort-icon {
+  position: relative;
+  top: 3px;
+  left: 8px;
+}

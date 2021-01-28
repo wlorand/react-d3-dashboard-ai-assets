@@ -1,0 +1,22 @@
+[
+  {
+    "lifecycle_stage": "Explore",
+    "assets": 8
+  },
+  {
+    "lifecycle_stage": "Dev",
+    "assets": 27
+  },
+  {
+    "lifecycle_stage": "Train",
+    "assets": 1
+  },
+  {
+    "lifecycle_stage": "Evaluate",
+    "assets": 8
+  },
+  {
+    "lifecycle_stage": "Deployed",
+    "assets": 155
+  }
+]

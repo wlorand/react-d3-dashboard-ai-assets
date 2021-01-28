@@ -1,0 +1,27 @@
+[
+  {
+    "product_offering": "Aid Assist",
+    "assets": 3
+  },
+  {
+    "product_offering": "ProConnect",
+    "assets": 3
+  },
+  {
+    "product_offering": "Intuit Internal",
+    "assets": 19
+  },
+  {
+    "product_offering": "Mint",
+    "assets": 24
+  },
+  {
+    "product_offering": "TurboTax",
+    "assets": 73
+  },
+  {
+    "product_offering": "QuickBooks",
+    "assets": 163,
+    "offering_color": "rgb(44, 160, 28)"
+  }
+]

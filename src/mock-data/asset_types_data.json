@@ -1,0 +1,22 @@
+[
+  {
+    "asset_type": "KE",
+    "assets": 26
+  },
+  {
+    "asset_type": "NLP Model",
+    "assets": 33
+  },
+  {
+    "asset_type": "NLP Service",
+    "assets": 33
+  },
+  {
+    "asset_type": "ML Model",
+    "assets": 55
+  },
+  {
+    "asset_type": "ML Service",
+    "assets": 55
+  }
+]
